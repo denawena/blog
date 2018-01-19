@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: denawena/denawena.github.io
+  name: git-gateway
 media_folder: source/images
 public_folder: images
 collections:
